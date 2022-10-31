@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Enemy2
+  - Enemy1
+  - Chest
+  - IdSystem1
+  - IdSystem2
+  - key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Envrioment
+  - healthbar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Weapon
+    uniqueID: 3110359707
+    locked: 0
+  - name: Player
+    uniqueID: 3443157131
+    locked: 0
+  - name: Enemy
+    uniqueID: 1064233107
+    locked: 0
+  - name: envrioment
+    uniqueID: 1593773581
+    locked: 0
+  - name: healthbar
+    uniqueID: 1799977815
+    locked: 0
